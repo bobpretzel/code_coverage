@@ -11,5 +11,6 @@ warning: main-15823428375228044794_3.profraw: unsupported instrumentation profil
 ## build
 
 ```bash
+chmod ug+x ./profile.sh
 ./profile.sh
 ```
